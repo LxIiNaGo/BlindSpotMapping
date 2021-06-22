@@ -1,0 +1,1 @@
+{"Scaling": {"Scaling_Range(portion)": "(0.6, 1.2)", "Scaling_Steps": "10", "Repeats": "10", "Scaling_Target_Display(s)": "0.4", "Scaling_Latency(s)": "0.4"}, "Heat_Map": {"Grid_Width(portion)": "1.1", "Grid_Height(portion)": "1.2", "Rows": "10", "Columns": "10", "Repeats": "10", "Heat_Map_Target_Display(s)": "0.4", "Heat_Map_Latency(s)": "0.4"}}
